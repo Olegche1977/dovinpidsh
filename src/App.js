@@ -13,7 +13,7 @@ function App () {
         </div>
 
         <h2>Hellow !!!!!!!!</h2>
-        {/* <img src='./ball-bearing1.webp' className="App-logo" alt="bearing" /> */}
+        
         <Button/>
 
        
